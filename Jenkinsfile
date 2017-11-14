@@ -1,1 +1,1 @@
-runJSTests()
+nodejs()
